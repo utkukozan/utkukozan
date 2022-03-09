@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @utkukozan
+- 👀 I’m interested in Computer Engineering
+- 🌱 I’m currently learning Software and Hardware
+- 💞️ I’m looking to collaborate on software developing
+- 📫 How to reach me utku.kozan@hotmail.com
