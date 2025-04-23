@@ -62,7 +62,3 @@ Explore, learn, and feel free to contribute or connect!
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
 </div>
-
----
-
-<img src="https://raw.githubusercontent.com/utkukozan/utkukozan/output/snake.svg" alt="Profile Contributions" />
