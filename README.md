@@ -26,39 +26,76 @@ Explore, learn, and feel free to contribute or connect!
 ---
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo" />
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" />
+  <a href="https://dotnet.microsoft.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
+  <a href="https://fastapi.tiangolo.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo" />
+  <a href="https://astro.build" target="_blank">
+    <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+  <a href="https://www.mongodb.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" />
+  <a href="https://visualstudio.microsoft.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo" />
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
+  <a href="https://firebase.google.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
+  <a href="https://supabase.io" target="_blank">
+    <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
+  <a href="https://www.postman.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
+  <a href="https://www.figma.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
+  </a>
 </div>
+
